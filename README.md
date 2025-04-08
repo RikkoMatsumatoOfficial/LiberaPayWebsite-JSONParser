@@ -1,7 +1,7 @@
 # LiberaPayWebsite-JSONParser
 This is My First JSON Parser and My First Try Something New About HTTP Response and JSON!!! So Enjoy to use this!!!
 
-P.S: Soon will be program for LiberaPayWebsite-JSONParser but only write in file!!!
+P.S: Soon will be program for LiberaPayWebsite-JSONParser but on writed in file!!!
 
 ## Donations
 
