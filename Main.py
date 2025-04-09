@@ -13,7 +13,7 @@ def Main():
         request_resp = get_data_from_url("https://liberapay.com/{}/public.json".format(username_liberapay))
         print(request_resp)
     except:
-        print("Failed to Get You're Data about you're LiberaPay Account!!! Please Register in Liberapay!!!")
+        print("Failed to Get You're Data about LiberaPay Account!!! Please Register in Liberapay!!!")
         exitfunc(3441)
 
 if __name__ == "__main__":
